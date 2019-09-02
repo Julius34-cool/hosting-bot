@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "bot fr",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "hosting-bot",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
